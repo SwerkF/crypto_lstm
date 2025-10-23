@@ -2,3 +2,4 @@
 __pycache__/
 .DS_Store
 currencies_data.csv
+ETHUSD_1m_Binance.csv
